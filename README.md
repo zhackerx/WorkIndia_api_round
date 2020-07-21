@@ -11,7 +11,7 @@ Steps to use
 
 Screenshots attached  
 
-![ScreenShot]https://i.postimg.cc/x18CmMsm/Screenshot-1005.png  
+![image]https://i.postimg.cc/x18CmMsm/Screenshot-1005.png  
 ![ScreenShot]https://i.postimg.cc/8CrzKDgP/Screenshot-1006.png  
 ![ScreenShot]https://i.postimg.cc/RhvCZH6N/Screenshot-1007.png  
 ![ScreenShot]https://i.postimg.cc/SQGNtD38/Screenshot-1008.png  

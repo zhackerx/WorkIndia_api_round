@@ -9,6 +9,13 @@ Steps to use
 3- run xampp in your laptop  
 4- run localhost/signup.html in your compatible browser  
 
+Features  
+1- create login or register your account  
+2- store details and password in encrypted format  
+3- show the user name and allow you to logout  
+4- allow you to save the sites name and passwords  
+5- allow you to check the list  
+
 Screenshots attached  
 
 ![image]https://i.postimg.cc/x18CmMsm/Screenshot-1005.png  
